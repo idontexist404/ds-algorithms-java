@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e2cc9c6-d9c0-42d2-b105-d0b0a3d83425" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/highlander/algorithms/Cbubblesort/domain/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dselectionsort/domain/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dselectionsort/test/SelectionSortTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BubbleSort">
+  <component name="RunManager" selected="Application.SelectionSortTest">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.highlander.algorithms.Bbinarysearch.domain.BinarySearch" />
       <module name="algorithms-examples" />
@@ -65,8 +66,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SelectionSortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dselectionsort.test.SelectionSortTest" />
+      <module name="algorithms-examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dselectionsort.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelectionSortTest" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.BinarySearch" />
       </list>
