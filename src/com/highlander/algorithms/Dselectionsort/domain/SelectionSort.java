@@ -1,4 +1,4 @@
-package Dselectionsort.domain;
+package com.highlander.algorithms.Dselectionsort.domain;
 
 public class SelectionSort {
     public int[] sort(int[] array) {

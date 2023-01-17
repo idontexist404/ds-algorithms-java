@@ -1,6 +1,6 @@
-package Dselectionsort.test;
+package com.highlander.algorithms.Dselectionsort.test;
 
-import Dselectionsort.domain.SelectionSort;
+import com.highlander.algorithms.Dselectionsort.domain.SelectionSort;
 
 import java.util.Arrays;
 
